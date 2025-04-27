@@ -53,8 +53,10 @@
 
 
 ## Output:
-![Screenshot 2025-04-27 104019](https://github.com/user-attachments/assets/bc433f32-99f6-4e7a-a339-793682db432a)
 
+![Screenshot 2025-04-27 105656](https://github.com/user-attachments/assets/0c47f20a-c86c-471c-a1d4-b66bde9aaf54)
+
+![Screenshot 2025-04-27 105709](https://github.com/user-attachments/assets/0d6d37a5-74cc-445f-b50f-937baca11008)
 
 
 ### Name: ABINAYA A
