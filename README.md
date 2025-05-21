@@ -59,8 +59,8 @@
 ![Screenshot 2025-04-27 105709](https://github.com/user-attachments/assets/0d6d37a5-74cc-445f-b50f-937baca11008)
 
 
-### Name: ABINAYA A
-### Register Number: 212224230004
+### Name: HARESH R
+### Register Number: 212224040097
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
